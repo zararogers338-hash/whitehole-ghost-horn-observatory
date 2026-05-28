@@ -1,0 +1,18 @@
+{
+  "repository_name": "whitehole-ghost-horn-observatory",
+  "version": "2.1.0",
+  "release_tag": "v2.1.0",
+  "description": "Bilingual Streamlit/Plotly toolkit for visualizing academic-paper corpora as 3D Ghost Horn structures and keyword maps.",
+  "topics": [
+    "streamlit",
+    "plotly",
+    "bibliometrics",
+    "knowledge-visualization",
+    "academic-papers",
+    "keyword-extraction",
+    "python",
+    "chinese-nlp",
+    "research-tools",
+    "data-visualization"
+  ]
+}
